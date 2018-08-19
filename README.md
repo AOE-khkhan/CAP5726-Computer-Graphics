@@ -1,11 +1,11 @@
 # Graduate Computer Graphics, CAP5726 Fall 2018
+### Lectures
+- Tue/Th. 8am~9:10am, 103 Love Building
 ### Course Instructor
 Xifeng Gao
 - Office: 171 Love Building
 - Office hours: Tue/Th. 9:10am~10:00am at 171 Love Building (temporary)
 - Homepage: https://gaoxifeng.github.io/
-### Lectures
-- Tue/Th. 8am~9:10am, 103 Love Building
 ### Course Description
 Computer Graphics is the area of using computers to create and process all kinds of images, realisitc or sythntic. This course will cover the basic concepts and algorithms of computer graphics, ranging from mathematical concepts, such as 2D and 3D transformations, curves and surfaces for modeling, to the interaction of light with geometry to derive shading models, rendering algorithms such as ray tracing and rasterization, texture mapping, and key-frame based animation.
 
