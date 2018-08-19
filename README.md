@@ -14,17 +14,17 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Aug./28: Introduction
 - Aug./30: Colors and Images
 - Sep./04 and Sep./06: Ray Tracing, C++
-Assignment 1: 
+- Assignment 1: 
 - Sep./11 and Sep./13: Transformations
 - Sep./18 and Sep./20: Rasterization
 - Sep./25 and Sep./27: The Graphics Pipeline
-Assignment 2: 
+- Assignment 2: 
 - Oct./02 and Oct./04: The Graphics Pipeline
 - Oct./09 and Oct./11: Curves
-Assignment 3: 
+- Assignment 3: 
 - Oct./16 and Oct./18: Curves
 - Oct./23 and Oct./25: Surfaces
-Assignment 4:
+- Assignment 4:
 - Oct./30 and Nov./01: Texture Mapping
 - Nov./13 and Nov./15: Animation
 - Nov./20 and Nov./22: Holidays
