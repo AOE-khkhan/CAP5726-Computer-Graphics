@@ -13,7 +13,8 @@ Computer Graphics is the area of using computers to create and process all kinds
 The schedule is tentative and will be adjusted along the way, the course materials will be added as the class proceeds.
 - Aug./28: [Introduction](https://gaoxifeng.github.io/cg18Fall/01-Introduction.pdf)
 - Aug./30: [Colors and Images](https://gaoxifeng.github.io/cg18Fall/02-Images.pdf)
-- Sep./04 and Sep./06: Ray Tracing, C++
+- Sep./04: [Ray Tracing](https://gaoxifeng.github.io/cg18Fall/03-Ray-Tracing.pdf)
+- Sep./06: C++
 - Assignment 1: 
 - Sep./11 and Sep./13: Transformations
 - Sep./18 and Sep./20: Rasterization
