@@ -14,8 +14,8 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Aug./28: [Introduction](https://gaoxifeng.github.io/cg18Fall/01-Introduction.pdf)
 - Aug./30: [Colors and Images](https://gaoxifeng.github.io/cg18Fall/02-Images.pdf)
 - Sep./04: [Ray Tracing](https://gaoxifeng.github.io/cg18Fall/03-Ray-Tracing.pdf)
-- Sep./06: C++
-- Assignment 1: 
+- Sep./06: [C++](https://gaoxifeng.github.io/cg18Fall/04-C++.pdf)
+- Assignment 1: [Ray Tracing](https://gaoxifeng.github.io/cg18Fall/Assignment_1.zip)
 - Sep./11 and Sep./13: Transformations
 - Sep./18 and Sep./20: Rasterization
 - Sep./25 and Sep./27: The Graphics Pipeline
