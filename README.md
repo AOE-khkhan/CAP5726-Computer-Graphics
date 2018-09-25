@@ -20,7 +20,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Sep./13: [View Transformations](https://gaoxifeng.github.io/cg18Fall/06-Viewing.pdf)
 - Sep./18: [Rasterization](https://gaoxifeng.github.io/cg18Fall/07-Rasterization.pdf)
 - Sep./20: [The Graphics Pipeline, Part 1](https://gaoxifeng.github.io/cg18Fall/08-The-OpenGL-Graphics-Pipeline-1.pdf)
-- Sep./25: The Graphics Pipeline, Part 2
+- Sep./25: [The Graphics Pipeline, Part 2](https://gaoxifeng.github.io/cg18Fall/09-The-OpenGL-Graphics-Pipeline.pdf)
 - Sep./27: The Graphics Pipeline, Part 3
 - Assignment 2: 
 - Oct./02 and Oct./04: The Graphics Pipeline
