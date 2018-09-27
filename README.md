@@ -21,8 +21,8 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Sep./18: [Rasterization](https://gaoxifeng.github.io/cg18Fall/07-Rasterization.pdf)
 - Sep./20: [The Graphics Pipeline, Part 1](https://gaoxifeng.github.io/cg18Fall/08-The-OpenGL-Graphics-Pipeline-1.pdf)
 - Sep./25: [The Graphics Pipeline, Part 2](https://gaoxifeng.github.io/cg18Fall/09-The-OpenGL-Graphics-Pipeline.pdf) ([main](https://gaoxifeng.github.io/cg18Fall/main.cpp), [Helpers.cpp](https://gaoxifeng.github.io/cg18Fall/Helpers.cpp), [Helpers.h](https://gaoxifeng.github.io/cg18Fall/Helpers.h))
-- Sep./27: The Graphics Pipeline, Part 3
-- Assignment 2: 
+- Sep./27: [The Graphics Pipeline, Part 3](https://gaoxifeng.github.io/cg18Fall/10-The-OpenGL-Graphics-Pipeline-Part-3.pdf)
+- Assignment 2: [2D Rasterization](https://gaoxifeng.github.io/cg18Fall/Assignment_2.zip)
 - Oct./02 and Oct./04: The Graphics Pipeline
 - Oct./09 and Oct./11: Curves
 - Assignment 3: 
