@@ -4,7 +4,7 @@
 ### Course Instructor
 Xifeng Gao
 - Office: 171 Love Building
-- Office hours: Tue/Th. 9:15am~10:00am at 171 Love Building (temporary)
+- Office hours: Friday. 12:00pm~02:00pm at 171 Love Building (temporary)
 - Homepage: https://gaoxifeng.github.io/
 ### Course Description
 Computer Graphics is the area of using computers to create and process all kinds of images, realisitc or sythntic. This course will cover the basic concepts and algorithms of computer graphics, ranging from mathematical concepts, such as 2D and 3D transformations, curves and surfaces for modeling, to the interaction of light with geometry to derive shading models, rendering algorithms such as ray tracing and rasterization, texture mapping, and key-frame based animation.
@@ -23,7 +23,8 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Sep./25: [The Graphics Pipeline, Part 2](https://gaoxifeng.github.io/cg18Fall/09-The-OpenGL-Graphics-Pipeline.pdf) ([main](https://gaoxifeng.github.io/cg18Fall/main.cpp), [Helpers.cpp](https://gaoxifeng.github.io/cg18Fall/Helpers.cpp), [Helpers.h](https://gaoxifeng.github.io/cg18Fall/Helpers.h))
 - Sep./27: [The Graphics Pipeline, Part 3](https://gaoxifeng.github.io/cg18Fall/10-The-OpenGL-Graphics-Pipeline-Part-3.pdf)
 - Assignment 2: [2D Rasterization](https://gaoxifeng.github.io/cg18Fall/Assignment_2.zip)
-- Oct./02 and Oct./04: The Graphics Pipeline
+- Oct./02: [The Graphics Pipeline, Part 4](https://gaoxifeng.github.io/cg18Fall/10-The-OpenGL-Graphics-Pipeline-Part-3.pdf)
+- Oct./04: [Curves, Part 1](https://gaoxifeng.github.io/cg18Fall/11-Designing-Interpolating-Curves.pdf)
 - Oct./09 and Oct./11: Curves
 - Assignment 3: 
 - Oct./16 and Oct./18: Curves
