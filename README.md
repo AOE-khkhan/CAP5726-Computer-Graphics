@@ -25,9 +25,10 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Assignment 2: [2D Rasterization](https://gaoxifeng.github.io/cg18Fall/Assignment_2.zip)
 - Oct./02: [The Graphics Pipeline, Part 4](https://gaoxifeng.github.io/cg18Fall/10-The-OpenGL-Graphics-Pipeline-Part-3.pdf)
 - Oct./04: [Curves, Part 1](https://gaoxifeng.github.io/cg18Fall/11-Designing-Interpolating-Curves.pdf)
-- Oct./09: Curves, Part 2
-- Oct./11: Date Change
-- Oct./16 and Oct./18: Curves
+- Oct./09: Canceled due to Hurricane
+- Oct./11: Canceled due to Hurricane
+- Oct./16: Curves, Part 2
+- Oct./18: Curves, Part 3
 - Assignment 3: 
 - Oct./23 and Oct./25: Surfaces
 - Oct./30 and Nov./01: Texture Mapping
