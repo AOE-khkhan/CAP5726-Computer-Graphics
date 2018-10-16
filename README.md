@@ -27,7 +27,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Oct./04: [Curves, Part 1](https://gaoxifeng.github.io/cg18Fall/11-Designing-Interpolating-Curves.pdf)
 - Oct./09: Canceled due to Hurricane
 - Oct./11: Canceled due to Hurricane
-- Oct./16: Curves, Part 2
+- Oct./16: [Curves, Part 2](https://gaoxifeng.github.io/cg18Fall/12-Designing-Interpolating-Curves-Part2.pdf)
 - Oct./18: Curves, Part 3
 - Assignment 3: 
 - Oct./23 and Oct./25: Surfaces
