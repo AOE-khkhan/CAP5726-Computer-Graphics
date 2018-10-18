@@ -28,16 +28,16 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Oct./09: Canceled due to Hurricane
 - Oct./11: Canceled due to Hurricane
 - Oct./16: [Curves, Part 2](https://gaoxifeng.github.io/cg18Fall/12-Designing-Interpolating-Curves-Part2.pdf)
-- Oct./18: Curves, Part 3
-- Assignment 3: 
+- Oct./18: [Curves, Part 3](https://gaoxifeng.github.io/cg18Fall/13-Designing-Approximating-Curves.pdf)
 - Oct./23 and Oct./25: Surfaces
+- Assignment 3: 
 - Oct./30 and Nov./01: Texture Mapping
 - Nov./13 and Nov./15: Animation
-- Assignment 4:
 - Nov./20 and Nov./22: Holidays
 - Nov./27 and Nov./29: Meshing
-- Dec./04 and Dec./06: Texture Synthesis
-- Dec./11 and Dec./13: Finals
+- Dec./04 and Dec./06: Meshing
+- Dec./11 and Dec./13: Texture Synthesis
+- Dec./18: Finals
 
 ### Textbook
 - Fundamentals of Computer Graphics, 4th Edition December 18, 2015 by A K Peters/CRC Press Textbook - 734 Pages - 541 Color ISBN 9781482229394
