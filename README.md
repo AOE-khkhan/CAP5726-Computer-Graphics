@@ -29,8 +29,9 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Oct./11: Canceled due to Hurricane
 - Oct./16: [Curves, Part 2](https://gaoxifeng.github.io/cg18Fall/12-Designing-Interpolating-Curves-Part2.pdf)
 - Oct./18: [Curves, Part 3](https://gaoxifeng.github.io/cg18Fall/13-Designing-Approximating-Curves.pdf)
-- Oct./23 and Oct./25: Surfaces
-- Assignment 3: 
+- Oct./23: [Curves, Part 4]
+- Oct./25: [Surfaces](https://gaoxifeng.github.io/cg18Fall/14-Designing-Surfaces.pdf)
+- [Assignment 3](https://gaoxifeng.github.io/cg18Fall/Assignment_3.zip), [Final Project](https://gaoxifeng.github.io/cg18Fall/Final-Project.zip)
 - Oct./30 and Nov./01: Texture Mapping
 - Nov./13 and Nov./15: Animation
 - Nov./20 and Nov./22: Holidays
