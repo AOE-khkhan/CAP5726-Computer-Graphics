@@ -34,8 +34,10 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - [Assignment 3](https://gaoxifeng.github.io/cg18Fall/Assignment_3.zip), [Final Project](https://gaoxifeng.github.io/cg18Fall/Final-Project.zip)
 - Oct./30 and Nov./01: Texture Mapping
 - Nov./13 and Nov./15: Animation
+- Nov./16 [Colloquim] 8:00 - 9:00 am, LOV 151
 - Nov./20 and Nov./22: Holidays
 - Nov./27 and Nov./29: Meshing
+- Nov./30 [Colloquim] 2:00 - 3:30 pm, LOV 151
 - Dec./04 and Dec./06: Meshing
 - Dec./11 and Dec./13: Texture Synthesis
 - Dec./18: Finals
