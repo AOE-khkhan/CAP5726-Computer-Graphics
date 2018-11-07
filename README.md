@@ -3,7 +3,7 @@
 - Tue/Th. 8am~9:15am, 103 Love Building
 ### Course Instructor
 Xifeng Gao
-- Office: 171 Love Building
+- Office: 251A Love Building
 - Office hours: Friday. 12:00pm~02:00pm at 171 Love Building (temporary)
 - Homepage: https://gaoxifeng.github.io/
 ### Course Description
