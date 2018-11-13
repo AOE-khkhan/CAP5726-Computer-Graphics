@@ -36,7 +36,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Nov./01: [Texture Mapping](https://gaoxifeng.github.io/cg18Fall/15-Texture-Mapping_copressed.pdf)
 - Nov./06: [Spacial Data Structure](https://gaoxifeng.github.io/cg18Fall/16-Spatial-Data-Structures.pdf)
 - Nov./08: Spacial Data Structure
-- Nov./13: [Spatial Deformations](https://gaoxifeng.github.io/cg18Fall/17-Spatial_and_Skeletal Deformations.pdf)  
+- Nov./13: [Spatial Deformations](https://gaoxifeng.github.io/cg18Fall/17-Spatial_and_Skeletal_Deformations.pdf)  
 - Nov./15: [Skeleton Deformations]
 - Nov./16 [Colloquim] 8:00 - 9:00 am, LOV 151
 - Nov./20 and Nov./22: Holidays
