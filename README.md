@@ -39,7 +39,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Nov./13: [Spatial Deformations](https://gaoxifeng.github.io/cg18Fall/17-Spatial_and_Skeletal_Deformations.pdf)  
 - Nov./15: [Skeleton Deformations](https://gaoxifeng.github.io/cg18Fall/18-Spatial-and-Skeletal-Deformations.pdf)  
 - Nov./16 [Colloquim] 8:00 - 9:00 am, LOV 151
-- Nov./20 [Mesh](https://gaoxifeng.github.io/cg18Fall/.pdf)  
+- Nov./20 [Mesh](https://gaoxifeng.github.io/cg18Fall/19-Meshes.pdf)  
 - Nov./22: Holiday
 - Nov./27 and Nov./29: Meshing
 - Nov./30 [Colloquim] 2:00 - 3:30 pm, LOV 151
