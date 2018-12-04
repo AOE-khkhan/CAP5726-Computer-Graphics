@@ -44,9 +44,9 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Nov./27 and Nov./29: Meshing
 - Nov./30 [Colloquim] 2:00 - 3:30 pm, LOV 151
 - Dec./01 [Proposal for final project submission deadline]: 23:59 pm EST
-- Dec./04 and Dec./06: Meshing
-- Dec./11 and Dec./13: Texture Synthesis
-- Dec./18: Finals
+- Dec./04 [Procedural Synthesis](https://gaoxifeng.github.io/cg18Fall/20-Procedural-Synthesis.pdf)   
+- Dec./06: Course Summary
+- Dec./11 and Dec./13: Finals
 
 ### Textbook
 - Fundamentals of Computer Graphics, 4th Edition December 18, 2015 by A K Peters/CRC Press Textbook - 734 Pages - 541 Color ISBN 9781482229394
