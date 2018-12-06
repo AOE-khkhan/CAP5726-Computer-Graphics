@@ -45,7 +45,7 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Nov./30 [Colloquim] 2:00 - 3:30 pm, LOV 151
 - Dec./01 [Proposal for final project submission deadline]: 23:59 pm EST
 - Dec./04 [Procedural Synthesis](https://gaoxifeng.github.io/cg18Fall/20-Procedural-Synthesis.pdf)   
-- Dec./06: Course Summary
+- Dec./06: [Course Summary](https://gaoxifeng.github.io/cg18Fall/21-summary.pdf)   
 - Dec./11 and Dec./13: Finals
 
 ### Textbook
